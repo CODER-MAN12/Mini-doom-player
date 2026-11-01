@@ -1,10 +1,10 @@
-Part,Qty,Description,Vendor,Link,Price
-J1,1,USB C Receptacle 16P,DigiKey,https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-G-SMT-P16-TR/10258133,0.35
-R1,1,5.1k Resistor 0402,DigiKey,https://www.digikey.ca/en/products/filter/chip-resistor-surface-mount/52,0.01
-R2,1,5.1k Resistor 0402,DigiKey,https://www.digikey.ca/en/products/filter/chip-resistor-surface-mount/52,0.01
-SW1-SW8,8,PTS125 Tactile Switch,DigiKey,https://www.digikey.ca/en/products/detail/c-k/PTS125SM43-2-LFS/2039218,1.60
-U1,1,EA eDIPTFT70-A Display Module,Mouser,https://www.mouser.ca/c/?q=EA_eDIPTFT70-A,35.00
-U2,1,ESP32-S3-WROOM-2,DigiKey,https://www.digikey.ca/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8/15200089,3.80
-U3,1,LD1117S33TR SOT-223 LDO,DigiKey,https://www.digikey.ca/en/products/detail/stmicroelectronics/LD1117S33TR/625157,0.25
-PCB,1,PCBWay Prototype PCB 5-pack,PCBWay,https://www.pcbway.com/orderonline.aspx,55.00
-Shipping,1,Consolidated Standard Shipping,DigiKey,https://www.digikey.ca,15.00
+Item,Qty,Supplier,Cost/item,Total Cost,link
+J1,1,DigiKey,$0.35,$0.35,https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-G-SMT-P16-TR/10258133
+R1,1,DigiKey,$0.01,$0.01,https://www.digikey.ca/en/products/filter/chip-resistor-surface-mount/52
+R2,1,DigiKey,$0.01,$0.01,https://www.digikey.ca/en/products/filter/chip-resistor-surface-mount/52
+SW1-SW8,8,DigiKey,$1.60,$12.80,https://www.digikey.ca/en/products/detail/c-k/PTS125SM43-2-LFS/2039218
+U1,1,Mouser,$35.00,$35.00,https://www.mouser.ca/c/?q=EA_eDIPTFT70-A
+U2,1,DigiKey,$3.80,$3.80,https://www.digikey.ca/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8/15200089
+U3,1,DigiKey,$0.25,$0.25,https://www.digikey.ca/en/products/detail/stmicroelectronics/LD1117S33TR/625157
+PCB,1,PCBWay,$55.00,$55.00,https://www.pcbway.com/orderonline.aspx
+Estimated total shipping,1,,,$0.00,
