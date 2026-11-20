@@ -25,14 +25,5 @@ This repository contains the hardware design files, schematics, and Bill of Mate
 <img width="733" height="521" alt="image" src="https://github.com/user-attachments/assets/9b8ab677-f3a1-48a3-af4c-a3067c790061" />
 
 
-## 📂 Repository Structure
-
-```text
-├── Pdb design/              # KiCad project files, schematics, and PCB layouts
-│   └── game boy fake/       # Main hardware project files & 3D models (.step)
-├── Images and videos/       # Prototype photos, build logs, and testing clips
-├── BOM.csv                  # Complete Bill of Materials with supplier links and costs
-└── README.md                # Project documentation
-
 
 
